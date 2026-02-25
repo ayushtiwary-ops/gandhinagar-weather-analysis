@@ -1,0 +1,11 @@
+Temperature Analysis
+Average: 30.7
+Median: 30.5
+
+Humidity Analysis
+Average: 60.9
+Median: 60.5
+
+AQI Analysis
+Average: 112.3
+Median: 111.0
